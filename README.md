@@ -64,15 +64,25 @@ The story takes place underground, during repairs to the water main. It's a stor
 4.1. It is an Adventure movie. The rerelease was released in 1998. It's a rerelease and it is a very entertaining movie.
 
 Conversation with GODEL (finetuned):
+
 •	Do you know the film of Super Mario Bros?
+
 Yes, I know the film. What do you want to know?
+
 •	How long is it?
+
 The film has a duration of 1 hour and 44 minutes. What do you want to know?
+
 •	Who is the director of the film?
+
 The film is directed by Annabel Jankel and Rocky Morton.
+
 •	Tell me a bit about the plot
+
 The brothers Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when they are separated, Mario embarks on an epic quest to find Luigi.
+
 •	Which is the rating of the film
+
 The film has a rating of 4.1 out of 10.
 
 Example 2:
@@ -80,15 +90,25 @@ Example 2:
 Knowledge obtained: Title: Barbie. Overview: To live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you're a Ken. Genre: Adventure, Comedy, Fantasy. Date Published: 2023-07-21. Actors: Margot Robbie, Ariana Greenblatt, Ryan Gosling. Director: Greta Gerwig.
 
 Conversation with GODEL (finetuned):
+
 •	Do you know the new movie of Barbie?
+
 Yes, I know the new movie of Barbie. It's directed by Greta Gerwig and stars Margot Robbie, Ariana Greenblatt, and Ryan Gosling.
+
 •	What is it about?
+
 Barbie is about to live in Barbie Land is to be a perfect being in a perfect place. Unless you have a full-on existential crisis. Or you're a Ken.
+
 •	When is it going to be published?
+
 It will be published on July 21, 2023.
+
 •	Which are the genres of the film?
+
 The genres of the movie are adventure, comedy, and fantasy.
+
 •	Thank you, I will go to watch it!
+
 The movie will be published on July 21, 2023. You are welcome.
 
 
