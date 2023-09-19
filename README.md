@@ -42,15 +42,25 @@ Example 1:
 Knowledge obtained: Title: Super Mario Bros. Overview: While working underground to fix a water main, Brooklyn plumbers—and brothers—Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi. Rating: 4.1. Genre: Adventure, Comedy, Family. Date Published: 1993-05-28. Duration: 1 hour 44 minutes. Actors: Bob Hoskins, John Leguizamo, Dennis Hopper. Director: Annabel Jankel, Rocky Morton.
 
 Conversation with GODEL (original):
+
 •	Do you know the film of Super Mario Bros?
+
 Yes a rerelease of Super Mario Bros. was released in 1998, which was a lot of fun to watch.
+
 •	How long is it?
+
 1 hour and 44 minutes. If you want to see it, it is a good one to check out.
+
 •	Who is the director of the film?
+
 Rocky Morton directed it. He was an actor in The Lost Highway starring Fred Hutcherson. It was a good movie. 
+
 •	Tell me a bit about the plot
+
 The story takes place underground, during repairs to the water main. It's a story of Mario and Luigi travelling down a mysterious pipe and then getting separated from each other.
+
 •	Which is the rating of the film
+
 4.1. It is an Adventure movie. The rerelease was released in 1998. It's a rerelease and it is a very entertaining movie.
 
 Conversation with GODEL (finetuned):
