@@ -25,7 +25,7 @@ DATA_NAME="/data/data.json"
 VALIDATION_NAME="/data/validation.json"
 TEST_NAME="/data/test.json"
 OUTPUT_DIR="/trained_large"
-MODEL_PATH="/GODEL-Large"
+MODEL_PATH="microsoft/GODEL-v1_1-large-seq2seq"
 EXP_NAME="godelphile"
 --dataset_name ${DATA_NAME} \
 
