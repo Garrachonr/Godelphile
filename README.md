@@ -10,6 +10,13 @@ In this repository you can find all the work done around this hypothesis.
   
 - To test the model I used the file "trial.ipynb". Here you first load the model, then you need to adjust the knowledge to the desired one and you will be able to talk with the bot about the knowledge of a movie.
 
+- I have upload two models to huggingface, one base and one larger. The difference between both is not significative but one is smaller and the other one performs a little better.
+
+https://huggingface.co/garrachonr/Godelphile-movies-base
+
+https://huggingface.co/garrachonr/Gogelphile-movies-large
+
+
 # Replicate results 
 To replicate these results on another topic, simply obtain a source of information on that topic and follow the steps below on how this model has been developed. The command used to finetune the godel with the files here present is the following:
 
